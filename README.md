@@ -31,9 +31,6 @@ pip install pyzipper customtkinter
 - The application securely encrypts files using AES encryption, ensuring strong protection.
 - If you forget the password, there is no way to recover the data.
 
-## Author
-- **Creator:** Sami-Ur-Rehman
-
 ## Disclaimer
 This tool is intended for legal and ethical use only. The developer is not responsible for any misuse of the application.
 
